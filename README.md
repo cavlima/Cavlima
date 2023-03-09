@@ -24,5 +24,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-
-
+![snake gif](https://github.com/cavlima/cavlima/blob/output/github-contribution-grid-snake.svg)
