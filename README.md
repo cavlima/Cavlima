@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA8072&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFA07A&size=35&center=true&vCenter=true&width=1000&lines=HI!+I'm+Matheus+Lima;I'm+24+years+old;I'm+from+Brazil;I+Graduating+in+Systems+Development+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6347&size=35&center=true&vCenter=true&width=1000&lines=HI!+I'm+Matheus+Lima;I'm+24+years+old;I'm+from+Brazil;I+Graduating+in+Systems+Development+Analyst;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cavlima&bg_color=ffffff&color=ff9785&line=ff9785&point=fc331d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavlima&layout=compact&hide_border=true&title_color=FFA07A&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavlima&layout=compact&hide_border=true&title_color=F8F8FF&text_color=c9d1d9&bg_color=ff9785" />
 </div>
 
 <div align="center"> 
@@ -19,9 +19,9 @@
  </div>
   
   ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
